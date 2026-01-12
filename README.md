@@ -6,11 +6,13 @@ Passionné par le développement web, je passe mon temps à réaliser divers pro
 ---
 
 #### 🛠️ Ma Stack Technique
-* **Langages** : TypeScript, JavaScript, HTML/CSS, Python, Dart
+* **Langages** : TypeScript / JavaScript / HTML/CSS / Python / Dart
 * **Frontend** : Next.js / React.js / Vue.js / Flutter
+* ** Librairie** : GSAP / Lexical / Loti / 
 * **Backend** : PHP / Symfony / Express / Node
 * **Gestion BDD** : SQL / PostGresSQL / Prisma (ORM) / Mango
-* **Outils** : Git, GitHub, VS Code, IA , Android Studio, Docker, Grafana, Figma 
+* **Outils** : Git / GitHub / VS Code / IA / Android Studio / Figma
+* **Hébergement** :  Vercel / AWS / Docker / Grafana / WP / 
 
 ---
 
@@ -21,8 +23,7 @@ Passionné par le développement web, je passe mon temps à réaliser divers pro
 * **[RCSMedical](https//rcsmedical.fr/)** : Réalisation d'un projet pour une entreprise dans le domaine du médical
 
 ### En cours de réalisation
-* **[DashCampAPP] : Réalisation d'une application en Flutter dans le but d'ajouter une gestion de l'image depuis une dashcam
-* 
+* **[DashCampApp] : Réalisation d'une application en Flutter dans le but d'ajouter une gestion de l'image depuis une dashcam
 
 ---
 
