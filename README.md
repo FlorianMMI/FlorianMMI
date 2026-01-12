@@ -1,16 +1,29 @@
-## Hi there 👋
+### Salut, c'est Florian ! 👋
 
-<!--
-**FlorianMMI/FlorianMMI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Étudiant en BUT3 MMI à l'IUT de Limoges** (Métiers du Multimédia et de l'Internet).
+Passionné par le développement web, je passe mon temps à réaliser divers projets d'un simple site internet à une application web intéractive et complexe .
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Ma Stack Technique
+* **Langages** : TypeScript, JavaScript, HTML/CSS, Python, Dart
+* **Frontend** : Next.js / React.js / Vue.js / Flutter
+* **Backend** : PHP / Symfony / Express / Node
+* **Gestion BDD** : SQL / PostGresSQL / Prisma (ORM) / Mango
+* **Outils** : Git, GitHub, VS Code, IA , Android Studio, Docker, Grafana, Figma 
+
+---
+
+#### 🚀 Projets Phares
+* **[Yanotela](https://github.com/FlorianMMI/Yanotela)** : Projet TypeScript avancé sur une prise de note collaborative.
+* **[Habit Tracker](https://github.com/FlorianMMI/habittracker)** : Application de suivi d'habitudes codée en TypeScript.
+* **[Portfolio](https://github.com/FlorianMMI/Portfolio_perso)** : Ma vitrine personnelle.
+* **[RCSMedical](https//rcsmedical.fr/)** : Réalisation d'un projet pour une entreprise dans le domaine du médical
+
+### En cours de réalisation
+* **[DashCampAPP] : Réalisation d'une application en Flutter dans le but d'ajouter une gestion de l'image depuis une dashcam
+* 
+
+---
+
+📫 **Me contacter** : https://www.linkedin.com/in/florian-bounissou/
