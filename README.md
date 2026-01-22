@@ -19,7 +19,7 @@ Passionné par le développement web, je passe mon temps à réaliser divers pro
 #### 🚀 Projets Phares
 * **[Yanotela](https://github.com/FlorianMMI/Yanotela)** : Projet TypeScript avancé sur une prise de note collaborative.
 * **[Habit Tracker](https://github.com/FlorianMMI/habittracker)** : Application de suivi d'habitudes codée en TypeScript.
-* **[Portfolio](https://github.com/FlorianMMI/Portfolio_perso)** : Ma vitrine personnelle.
+* **[Portfolio](https://github.com/FlorianMMI/Portfolo)** : Ma vitrine personnelle.
 * **[RCSMedical](https//rcsmedical.fr/)** : Réalisation d'un projet pour une entreprise dans le domaine du médical
 
 ### En cours de réalisation
